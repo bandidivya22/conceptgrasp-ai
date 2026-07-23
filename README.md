@@ -148,7 +148,7 @@ Personalized recommendations including
 
 ## Flashcards
 
-<img width="1907" height="888" alt="image" src="https://github.com/user-attachments/assets/fb1f3200-7c26-4609-bd1f-556f35224db5" />
+<img width="1897" height="897" alt="image" src="https://github.com/user-attachments/assets/d6f702d9-3d7a-4ecc-9045-ce5f501f72a1" />
 
 
 ---
