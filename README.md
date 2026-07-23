@@ -1,5 +1,4 @@
 # ConceptGrasp AI
-<<<<<<< Updated upstream
 A complete, production-ready AI-powered learning platform. ConceptGrasp AI helps students learn smarter with AI-generated flashcards, quizzes, study plans, personalized recommendations, and an AI tutor — all in one beautiful, modern interface
 
 ---
@@ -127,55 +126,56 @@ Personalized recommendations including
 
 ## Login
 
-<img width="1902" height="915" alt="image" src="https://github.com/user-attachments/assets/b503a24d-50db-466d-8bcf-aa8547668afb" />
+<img width="1897" height="915" alt="image" src="https://github.com/user-attachments/assets/b3aa7343-6d82-4595-b0bf-081a04378e64" />
+
 
 
 ---
 
 ## Dashboard
 
-<img width="1891" height="932" alt="image" src="https://github.com/user-attachments/assets/d1e253a4-dd00-4c1c-b989-b604b7faacf4" />
-
+<img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/63b21344-7882-45f5-9ad4-67cc1041a782" />
 
 ---
 
 ## Documents
 
-<img width="1905" height="930" alt="image" src="https://github.com/user-attachments/assets/8169dad1-6101-4e02-b2fb-662ee9895f86" />
+<img width="1900" height="922" alt="image" src="https://github.com/user-attachments/assets/31476a26-56cb-4b5c-b05f-45dc4961edd5" />
+
 
 
 ---
 
 ## Flashcards
 
-<img width="1890" height="930" alt="image" src="https://github.com/user-attachments/assets/587161b6-6493-4794-844d-0e774eee26f7" />
+<img width="1907" height="888" alt="image" src="https://github.com/user-attachments/assets/fb1f3200-7c26-4609-bd1f-556f35224db5" />
 
 
 ---
 
 ## Quiz
 
-<img width="1911" height="908" alt="image" src="https://github.com/user-attachments/assets/7c5e59f4-29f7-4966-92e6-8476406c3568" />
+<img width="1882" height="922" alt="image" src="https://github.com/user-attachments/assets/3d5734a4-5ff6-427e-9884-f1a3247891a0" />
 
 
 ---
 
 ## AI Tutor
-<img width="1898" height="932" alt="image" src="https://github.com/user-attachments/assets/50b865b4-d7eb-4188-bc21-c640cc933be8" />
+<img width="1865" height="896" alt="image" src="https://github.com/user-attachments/assets/2abe1e80-d05e-49b6-a8a4-6d7e606eaae9" />
 
 
 ---
 
 ## Study Planner
 
-<img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/39c995b8-cb7b-45f4-9e93-f5743297c48d" />
+<img width="1900" height="897" alt="image" src="https://github.com/user-attachments/assets/c006910e-f9ef-48da-a596-5890957aabd7" />
 
 
 ---
 
 ## Progress
 
-<img width="1908" height="887" alt="image" src="https://github.com/user-attachments/assets/87c640a3-f2c3-4e93-bbb4-c9f7fddad569" />
+<img width="1901" height="922" alt="image" src="https://github.com/user-attachments/assets/7aebbb0d-9531-4bdf-afd6-7937114b9185" />
 
 
 ---
@@ -211,246 +211,18 @@ Personalized recommendations including
 - Google Gemini AI API
 - pdfjs-dist
 - Mammoth
-
----
-
-# 🏗 Project Structure
-
-```
-=======
-A complete, production-ready AI-powered learning platform. ConceptGrasp AI helps students learn smarter with AI-generated flashcards, quizzes, study plans, personalized recommendations, and an AI tutor — all in one beautiful, modern interface.
-
-  <p align="center">
-    Upload study materials, generate AI flashcards & quizzes, create study plans, chat with an AI tutor, and track your learning progress.
-  </p>
-</p>
-
----
-
-## 🚀 Live Demo
-
-### 🌐 Frontend
-
-https://conceptgrasp-ai.onrender.com
-
-### ⚡ Backend API
-
-https://conceptgrasp-api.onrender.com
-
----
-
-# 📌 Features
-
-## 🔐 Authentication
-
-- User Registration
-- Login with JWT Authentication
-- Protected Routes
-- User Profile Management
-- Password Encryption using bcrypt
-
----
-
-## 📊 Dashboard
-
-- Beautiful Glassmorphism UI
-- Responsive Design
-- Dark/Light Theme
-- Study Statistics
-- Weekly Study Hours Chart
-- Quiz Performance Graph
-- Subject Progress Chart
-- Recent Activities
-
----
-
-## 📄 Document Management
-
-- Upload PDF Files
-- Upload DOCX Files
-- Upload TXT Files
-- AI Document Summary
-- Search Documents
-- Filter by Subject
-- Delete Documents
-
----
-
-## 🧠 AI Flashcards
-
-- Generate Flashcards from Documents
-- Flip Card Animation
-- Bookmark Flashcards
-- Shuffle Cards
-- Mark as Learned
-
----
-
-## 📝 AI Quiz Generator
-
-- Multiple Choice Questions
-- True / False Questions
-- Short Answer Questions
-- Timer
-- Progress Tracking
-- Quiz History
-- Instant Score & Review
-
----
-
-## 📅 AI Study Planner
-
-Generate personalized
-
-- Daily Study Plans
-- Weekly Study Plans
-- Revision Schedule
-
-based on
-
-- Subjects
-- Available Study Hours
-- Exam Date
-- Weak Topics
-
----
-
-## 🤖 AI Tutor
-
-- AI Chat Assistant
-- Instant Doubt Solving
-- Conversation History
-- Markdown Support
-
----
-
-## 📈 Progress Tracker
-
-- Study Hours Analytics
-- Subject Progress
-- Quiz Performance
-- Learning Streak
-- Achievement Tracking
-
----
-
-## 🎯 AI Recommendations
-
-Personalized recommendations including
-
-- Topics to Revise
-- Weak Subjects
-- Practice Suggestions
-- Daily Goals
-- Learning Strategy
-
----
-
-# 🖼 Screenshots
-
-## Login
-
-<img width="1866" height="917" alt="image" src="https://github.com/user-attachments/assets/6982fc6c-df07-42ca-ab86-acf0ebef1ca9" />
-
-
----
-
-## Dashboard
-
-<img width="1901" height="933" alt="image" src="https://github.com/user-attachments/assets/85722b20-0abc-40a5-a2b0-2db20f244648" />
-
-
----
-
-## Documents
-
-<img width="1902" height="937" alt="image" src="https://github.com/user-attachments/assets/13a3e450-7dde-4492-9348-3fe937411add" />
-
-
----
-
-## Flashcards
-
-<img width="1905" height="932" alt="image" src="https://github.com/user-attachments/assets/7059519d-7ae4-49b8-9d84-7bb0abe6976a" />
-
-
----
-
-## Quiz
-
-<img width="1896" height="932" alt="image" src="https://github.com/user-attachments/assets/0d8d6751-a094-4502-99ad-6b17451801db" />
-
-
----
-
-## AI Tutor
-
-<img width="1916" height="898" alt="image" src="https://github.com/user-attachments/assets/0ad65fd5-7c85-437e-8484-a870636a2c48" />
-
-
----
-
-## Study Planner
-
-<img width="1887" height="937" alt="image" src="https://github.com/user-attachments/assets/f0a7e54f-d321-426b-9e59-8da0c4b7199c" />
-
-
----
-
-## Progress
-
-<img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/a0860a46-a098-480a-8df7-6d26bb72d6cf" />
-
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-- React 18
-- TypeScript
-- Vite
-- Tailwind CSS
-- React Router DOM
-- React Query
-- Axios
-- Framer Motion
-- React Hook Form
-- Zod
-- Recharts
-- Lucide React
-
----
-
-## Backend
-
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Mongoose
-- JWT Authentication
-- bcryptjs
-- Multer
-- Google Gemini AI API
-- pdfjs-dist
-- Mammoth
-
----
-
-# 🏗 Project Structure
+  
 ```text
->>>>>>> Stashed changes
 ConceptGrasp/
-├── client/                  # Frontend React app (Supabase-backed)
+├── client/                  
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
-│   │   │   ├── ui/          # Reusable UI components
+│   │   │   ├── ui/          
 │   │   │   ├── layout/      # App layout, Sidebar, Navbar
 │   │   │   └── charts/      # Recharts wrappers
 │   │   ├── context/         # Auth & Theme providers
-│   │   ├── lib/             # Supabase client + AI generator
+│   │   ├── lib/             
 │   │   ├── pages/
 │   │   │   ├── auth/         # Login, Register, Forgot/Reset
 │   │   │   ├── Dashboard.tsx
@@ -463,7 +235,7 @@ ConceptGrasp/
 │   │   │   ├── Progress.tsx
 │   │   │   ├── Recommendations.tsx
 │   │   │   └── Profile.tsx
-│   │   ├── services/        # Supabase data services
+│   │   ├── services/       
 │   │   ├── types/            # TypeScript interfaces
 │   │   └── utils/            # Helpers
 │   ├── index.html
@@ -483,39 +255,6 @@ ConceptGrasp/
 │   ├── package.json
 │   └── .env.example
 ├── .env.example
-<<<<<<< Updated upstream
-=======
-StudyMind-AI
-│
-├── client
-│   ├── src
-│   │   ├── components
-│   │   ├── pages
-│   │   ├── services
-│   │   ├── hooks
-│   │   ├── context
-│   │   ├── types
-│   │   └── utils
-│   │
-│   └── package.json
-│
-├── server
-│   ├── src
-│   │   ├── config
-│   │   ├── controllers
-│   │   ├── middleware
-│   │   ├── models
-│   │   ├── routes
-│   │   ├── services
-│   │   └── server.js
-│   │
-│   └── package.json
-│
->>>>>>> e249ae7f1ea7b111237cc0e568bf7c3ec2b30762
-└── README.md
-```
-
----
 
 # ⚙ Installation
 
@@ -539,17 +278,8 @@ git clone https://github.com/bandidivya22/conceptgrasp-ai.git
 cd conceptgrasp-ai
 ```
 
->>>>>>> Stashed changes
-Open http://localhost:5173, register an account, and start using ConceptGrasp AI.
 
----
-
-<<<<<<< Updated upstream
-The `server/` directory contains a complete Express + MongoDB + JWT backend you can run locally:
->>>>>>> 84c32f3 (Rename project to ConceptGrasp AI and update branding)
-=======
 ## Backend Setup
->>>>>>> Stashed changes
 
 ```bash
 cd server
